@@ -1,0 +1,32 @@
+header{
+    margin: 0;
+    padding: 2rem 5rem;
+    /* background-color: rgb(113, 221, 125); */
+    border-bottom: 2px solid green;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1{
+    border: 2px solid green;
+    padding: 1rem 2rem;
+    color: darkgreen;
+}
+
+.Pbot a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    background-color: rgb(23, 163, 15);
+    border-radius: 0.5rem;
+
+    color: aliceblue;
+}
+
+
+
+
+
+
