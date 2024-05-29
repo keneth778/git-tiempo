@@ -1,16 +1,8 @@
-let headerAr = document.querySelector(".header");
+let header_DOM = document.querySelector(".header");
 
-headerAr.innerHTML = `
+header_DOM.innerHTML = `
+   <h1 class="titulo">comandos <span>GIT</span></h1>
+   
 
-    <div class="user">
-        <h1>Mi página</h1>
-    </div>
-
-    <div class="Pbot">
-        <a href="#" class="dir">inicio</a>
-        <a href="#" class="dir">Github</a>
-        <a href="#" class="dir">Otros</a>
-    </div>
-
-
+   <a href="https://github.com/keneth778/git-tiempo" class="btn-github">github</a>
 `;
